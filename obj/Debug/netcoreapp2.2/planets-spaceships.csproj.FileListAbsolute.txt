@@ -1,0 +1,11 @@
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.deps.json
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.runtimeconfig.json
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.runtimeconfig.dev.json
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.dll
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/bin/Debug/netcoreapp2.2/planets-spaceships.pdb
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.csprojAssemblyReference.cache
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.csproj.CoreCompileInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.AssemblyInfoInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.AssemblyInfo.cs
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.dll
+/Users/colinwhite/workspace/back-end/exercises/planets-spaceships/obj/Debug/netcoreapp2.2/planets-spaceships.pdb
